@@ -1,5 +1,7 @@
 facebook
 
+without view, just DB structure
+
 1. 좋아요
 Post.find(1).likes.count
 =>4
